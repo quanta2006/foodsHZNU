@@ -27,3 +27,9 @@
 ....
 
 
+<style>
+table th {
+  background: #666;
+  color:#fff;
+}
+</style>
